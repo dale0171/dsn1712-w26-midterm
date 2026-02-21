@@ -1,8 +1,8 @@
 body{
+    color: #f4f4f4;
     background-color: #0b0f1a;
     font-family: 'Montserrat', sans-serif;
-    line-height: line height 1.6;
-    color: #f4f4f4;
+    line-height: 1.6;
 }
 
 .hero-area{
@@ -20,8 +20,8 @@ body{
 }
 
 h1, h2{
+    font-family: 'Cormorant Garamond', serif;
     color: #c6a85b;
-    font-family: Cormorant Garamond;
     font-weight: normal;
     margin-bottom: 20px;
 }
